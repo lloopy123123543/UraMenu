@@ -25,7 +25,7 @@ export default function HelpMenu() {
         <div className={menu.drop_menu__row}>
           <div className={menu.contain}>
             <HelpSvg />
-            Ссылка...
+            Помощь
           </div>
           <div className={menu.combination_buttons}>Alt+0</div>
         </div>
